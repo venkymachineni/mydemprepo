@@ -4,7 +4,7 @@
 		<pages>
 			<Page title="{i18n>title}">
 				<content>
-					<Button type="Accept" text="Submit"/>
+				
 				</content>
 			</Page>
 		</pages>
